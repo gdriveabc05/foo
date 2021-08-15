@@ -4,7 +4,7 @@
 console.log(8);
 
 // passing string
-console.log('hello');
+console.log('hello Dave');
 
 // passing variable
 const x = 'hello';
@@ -17,7 +17,7 @@ function sayName() {
 console.log(sayName());
 
 // passing string and a variable
-const name = 'John';
+const name = 'Dave';
 console.log('Hello ' + name);
 
 // passing object
